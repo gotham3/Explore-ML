@@ -3,5 +3,7 @@ Despite the hope that one day we could have machines that think and learn the wa
 
 So what is a machine learning model ? 
   A machine learning algorithm is the process that uncovers the underlying relationship within the data;
+  
   The outcome of a machine learning algorithm is called machine learning model, which can be considered as a function FF, which outputs     certain results, when given the input;
+  
   Rather than a predefined and fixed function, a machine learning model is derived from historical data. Therefore, when fed with           different data, the output of machine learning algorithm changes, i.e. the machine learning model changes;
